@@ -75,3 +75,6 @@
 # no_first_char(input())
 
 
+# Task10:
+# def reverse(a):
+#     return a[::-1].swapcase()
