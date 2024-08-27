@@ -27,3 +27,15 @@
 #     print("?")
 #
 # shuttering_f(input())
+
+
+# Task4:
+# def discount(a:int,b:int):
+#     res = ((100 - b)*a)/100
+#     print(res)
+#
+# discount(int(input()), int(input()))
+
+
+
+
