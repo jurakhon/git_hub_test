@@ -52,4 +52,12 @@
 #
 # number_split(int(input()))
 
+# Task8:
+# def no_first_char(a: str):
+#     print(a[1:len(a)])
+#
+#
+# no_first_char(input())
+
+
 
