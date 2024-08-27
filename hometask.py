@@ -36,6 +36,14 @@
 #
 # discount(int(input()), int(input()))
 
+# Task5:
+# def end_corona(a:int,b:int,c:int):
+#     z=a-b
+#     res=c//z
+#     print(res+1)
+#
+# end_corona(int(input()),int(input()), int(input()))
+
 
 
 
