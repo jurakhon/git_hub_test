@@ -18,3 +18,12 @@
 # my_list = input()
 # my_list = [int(x) for x in my_list.split()]
 # sum_of_elements(my_list)
+
+
+# Task3:
+# def shuttering_f(a:str):
+#
+#     print(a[0]+a[1]+(".")*3+" "+a[0]+a[1]+(".")*3+" "+a,end="")
+#     print("?")
+#
+# shuttering_f(input())
