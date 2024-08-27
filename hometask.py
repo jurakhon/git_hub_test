@@ -52,12 +52,26 @@
 #
 # number_split(int(input()))
 
+
+
+# Task7:
+# def check_equals(list1, list2):
+#     if len(list1) != len(list2):
+#         return False
+#
+#     for i in range(len(list1)):
+#         if list1[i] != list2[i]:
+#             return False
+#
+#     return True
+
+
+
 # Task8:
 # def no_first_char(a: str):
 #     print(a[1:len(a)])
 #
 #
 # no_first_char(input())
-
 
 
