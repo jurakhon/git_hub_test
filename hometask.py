@@ -75,6 +75,15 @@
 # no_first_char(input())
 
 
+# Task9:
+# def harmonic(a):
+#     sum = 0
+#     for i in range(1, a+1):
+#         sum += 1/i
+#     return sum
+
+
+
 # Task10:
 # def reverse(a):
 #     return a[::-1].swapcase()
