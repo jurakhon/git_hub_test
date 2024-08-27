@@ -44,6 +44,12 @@
 #
 # end_corona(int(input()),int(input()), int(input()))
 
-
+# Task6:
+# def number_split(a):
+#     left = a // 2
+#     right = a - left
+#     print( [left, right])
+#
+# number_split(int(input()))
 
 
