@@ -52,3 +52,11 @@
 #         print(res)
 #
 # century(int(input()))
+
+# Task6:
+# from datetime import datetime, date, time, timedelta
+# def week_day(date):
+#
+#     res=datetime.strptime(date,"%d/%m/%Y")
+#     new=datetime.strftime(res, "%A")
+#     print(new)
