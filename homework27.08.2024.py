@@ -13,3 +13,12 @@
 #
 # halloween(input("Enter date in the following format:--->2013/10/31"))
 
+
+Task3:
+from datetime import datetime, date, time, timedelta
+
+def after_months(a,b:int)
+
+    new_year = datetime.strptime(a,"%Y")
+    res = b//12
+    print(res+new_year.year)
