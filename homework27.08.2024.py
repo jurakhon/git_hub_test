@@ -33,3 +33,11 @@
 #
 #     print(new)
 
+# Task5:
+# from datetime import datetime, date, time, timedelta
+#
+# given_date = datetime(2020,2,25)
+#
+# res = datetime.strftime(given_date, "%A %d %B %Y")
+#
+# print(res)
