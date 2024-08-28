@@ -41,3 +41,14 @@
 # res = datetime.strftime(given_date, "%A %d %B %Y")
 #
 # print(res)
+
+# Task2:
+# def century(a):
+#     if a%100==1:
+#         res=(a//100)
+#         print(res)
+#     else:
+#         res = (a//100)+1
+#         print(res)
+#
+# century(int(input()))
