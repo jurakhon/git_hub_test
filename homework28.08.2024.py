@@ -54,3 +54,33 @@
 #     elif user_input - num >=-10:
 #         print("too close")
 #         cnt+=1
+
+
+# Task4:
+# import random
+#
+#
+# while True:
+#     comp = random.randrange(1,3)
+#     user = int(input("Select your move (1 for Rocks,2 for Paper, 3 for Scissors):---->"))
+#     if comp==user:
+#         print("It's a tie!")
+#         break
+#     if comp==1 and user==3:
+#         print("You Lose")
+#         break
+#     elif comp==1 and user==2:
+#         print("You Win!!!")
+#         break
+#     elif comp==2 and user==1:
+#         print("You Lose")
+#         break
+#     elif comp==2 and user==3:
+#         print("You win!!")
+#         break
+#     elif comp==3 and user==1:
+#         print("You win!!")
+#         break
+#     elif comp==3 and user==2:
+#         print("You lose")
+#         break
