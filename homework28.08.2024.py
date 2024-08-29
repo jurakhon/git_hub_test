@@ -7,3 +7,22 @@
 # my_pass = random.choices(my_list,k=n)
 #
 # print(*my_pass,sep="")
+
+
+# Task2:
+# import random
+#
+# array1 = [random.randint(0, 1) for i in range(6)]
+# array2 = [random.randint(0, 1) for i in range(6)]
+#
+# print("First array:")
+# print(array1)
+# print("Second array:")
+# print(array2)
+#
+#
+# print("Test above two arrays are equal or not!")
+# if array1 == array2:
+#     print(True)
+# else:
+#     print(False)
