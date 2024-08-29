@@ -26,3 +26,31 @@
 #     print(True)
 # else:
 #     print(False)
+
+# Task1:
+# import random
+#
+# num = random.randrange(1,100)
+# print(f"this is the random number: {num}")
+# cnt = 0
+# while True:
+#     user_input = int(input("enter your guess:--->"))
+#     if cnt >=5:
+#         print("You lose!! Game over!!")
+#         break
+#
+#     if user_input - num <=10:
+#         print("too close")
+#         cnt+=1
+#     if user_input == num:
+#         print("You Winnnnn!!!!!!")
+#         break
+#     elif user_input - num >=11:
+#         print("too high")
+#         cnt+=1
+#     elif user_input - num <=-11:
+#         print("too low")
+#         cnt+=1
+#     elif user_input - num >=-10:
+#         print("too close")
+#         cnt+=1
