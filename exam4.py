@@ -12,20 +12,20 @@
 # x = random.sample
 # y = random.choices(weights=, k=)
 
-
-Question2:
-with open("my_file.txt", "r") as my_new_file: ## masalan
-    a
-    a+
-    w
-    r
-    my_new_file.readlines()
-    my_new_file.read()
-    my_new_file.writelines()
-    my_new_file.
-
-Question3:
-github baroi istoriya yo versiyaro kayd kardan. va kodhoro ba github monda baroi hama kodhoro ivaz kardan istifoda burda meshavad. baroi kollabaratsiya va yak proyektro hamakasa kor kardan istifoda mebarand bisyori vakt.
+#
+# Question2:
+# with open("my_file.txt", "r") as my_new_file: ## masalan
+#     a
+#     a+
+#     w
+#     r
+#     my_new_file.readlines()
+#     my_new_file.read()
+#     my_new_file.writelines()
+#     my_new_file.
+#
+# Question3:
+# github baroi istoriya yo versiyaro kayd kardan. va kodhoro ba github monda baroi hama kodhoro ivaz kardan istifoda burda meshavad. baroi kollabaratsiya va yak proyektro hamakasa kor kardan istifoda mebarand bisyori vakt.
 
 
 # Task1:
