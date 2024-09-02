@@ -104,5 +104,16 @@
 # find_word()
 
 
-
+# Task6:
+#
+# given_list = ["red", "green","black","white","orange"]
+# # user_input = str(input())
+# user_input = "ack"
+# for i in given_list:
+#     if user_input in i:
+#         print(True)
+#         break
+#     else:
+#         print(False)
+#         break
 
