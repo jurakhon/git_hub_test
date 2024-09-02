@@ -109,11 +109,13 @@
 # given_list = ["red", "green","black","white","orange"]
 # # user_input = str(input())
 # user_input = "ack"
+# is_contain = False
 # for i in given_list:
 #     if user_input in i:
-#         print(True)
+#         is_contain = True
 #         break
-#     else:
-#         print(False)
-#         break
+#
+# print(is_contain)
+
+
 
