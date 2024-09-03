@@ -2,9 +2,9 @@ import random
 
 
 words = {
-"GitHub": "is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time."
-"Google": "is an internet search engine. It uses a proprietary algorithm that’s designed to retrieve and order search results to provide the most relevant and dependable sources of data possible."
-"Instagram": "is a free photo and video sharing app available on iPhone and Android. People can upload photos or videos to our service and share them with their followers or with a select group of friends."
+"github": "is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.",
+"google": "is an internet search engine. It uses a proprietary algorithm that’s designed to retrieve and order search results to provide the most relevant and dependable sources of data possible.",
+"instagram": "is a free photo and video sharing app available on iPhone and Android. People can upload photos or videos to our service and share them with their followers or with a select group of friends."
 }
 
 
