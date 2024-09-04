@@ -46,3 +46,14 @@
 #         return 1
 #     else:
 #         return a * power(a, b - 1)
+
+
+# Task6:
+# def com_divisor(a, b):
+#
+#     if a < b:
+#         return com_divisor(b, a)
+#     if b == 0:
+#         return a
+#     else:
+#         return com_divisor(b, a % b)
