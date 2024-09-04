@@ -10,3 +10,30 @@
 # res = recursive_sum(my_list)
 #
 # print(f"The sum of {my_list} is: {res}")
+
+
+# Task2:
+# def convert_to_base(n, base):
+#     digits = "0123456789ABCDEF"
+#     if n < base:
+#         return digits[n]
+#     else:
+#         return convert_to_base(n // base, base) + digits[n % base]
+
+
+# Task3:
+# def sum_digits(n):
+#
+#     if n<10:
+#         return n
+#     else:
+#         return n%10 + sum_digits(n//10)
+# print(sum_digits(345))
+
+
+
+# Task4:
+# def sum_series(n):
+#     if n <= 0:
+#         return 0
+#     return n + sum_series(n - 2)
