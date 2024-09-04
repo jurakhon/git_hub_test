@@ -57,3 +57,14 @@
 #         return a
 #     else:
 #         return com_divisor(b, a % b)
+
+
+# Task7:
+# def count_up_to(a):
+#     print(a)
+#     if a>=50:
+#         return 50
+#     else:
+#         return count_up_to(a+1)
+#
+# print(count_up_to(1))
