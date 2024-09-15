@@ -171,3 +171,4 @@
 #
 # person = Nobel("Peace", 2005, "Muhammad Sodikov")
 # print(person.show())
+#
